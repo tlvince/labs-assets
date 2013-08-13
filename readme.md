@@ -4,7 +4,7 @@ Assets for the Cotswolds Tech website.
 
 ## Author
 
-© 2013 onarray Ltd <http://www.onarray.com>
+© 2013 onarray <http://www.onarray.com>
 
 ## License
 
