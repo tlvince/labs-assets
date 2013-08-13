@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    onarray <http://www.onarray.com> -- @onarray
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Node.js, Wintersmith
