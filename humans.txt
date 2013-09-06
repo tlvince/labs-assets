@@ -1,9 +1,9 @@
-# humanstxt.org/
+# humanstxt.org
 # The humans responsible & technology colophon
 
 # TEAM
 
-    onarray <http://www.onarray.com> -- @onarray
+    Tom Vincent <http://tlvince.com> -- @tlvince
 
 # TECHNOLOGY COLOPHON
 
