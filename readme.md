@@ -1,10 +1,10 @@
-# Cotswold Tech Assets
+# labs-assets
 
-Assets for the Cotswolds Tech website.
+Assets for <http://labs.tlvince.com>
 
 ## Author
 
-© 2013 onarray <http://www.onarray.com>
+© 2013 Tom Vincent <http://tlvince.com/contact>
 
 ## License
 
